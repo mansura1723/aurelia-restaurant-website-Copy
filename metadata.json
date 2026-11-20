@@ -1,0 +1,6 @@
+{
+  "name": "AURELIA — Global Dining",
+  "description": "A luxury five-star international restaurant and all-day dining experience in Dhaka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
